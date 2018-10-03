@@ -1,75 +1,86 @@
 Font Data: 03 Oct 2018
 
+Notes: Items marked with a D are in the official macOS font 
+collection but aren't downloaded by default. They appear in 
+FontBook but must be activated there (Downloaded).
 
-macOS 10.14 ##################################################
+For example, Chinese (Simplified Han, Traditional Han) has 
+10 fonts installed by default, but 45 fonts in the collection
+that can be downloaded from FontBook. 
 
 
-Chinese  **********
+macOS 10.14 ###################################################
 
-  01  Apple LiGothic
-  02  Apple LiSung
-D 03  Baoil SC
-D 04  Baoil TC
-D 05  BiauKai
-  06  GB18030 Bitmap
-D 07  Hannotate SC
-D 08  Hannotate TC
-D 09  HanziPen SC
-D 10  HanziPen TC
-D 11  Hei
-  12  Heiti SC
-  13  Heiti TC
-  14  Kai
-  15  Kaiti SC
-    16  Kaiti TC
-    17  Klee
-D   18  Lantinghei SC
-D   19  Lantinghei TC
-D   20  Libian SC
-D   21  Libian TC
-D   22  LiHei
-D   23  LiSong Pro
-D   24  LingWai SC
-D   25  LingWai TC
-D   0?  Nanum Brush Script
-D   0?  Nanum Gothic
-D   0?  Nanum Myeongjo
-D   0?  Nanum Pen Script
-D   0?  Osaka
-D   0?  PCMyungjo
-D   0?  PilGi
-    0?  PingFang HK
-    0?  PingFang SC
-    0?  PingFang TC
-    0?  Songti SC
-    0?  Songti TC
-D   0?  STFangsong
-D   0?  STHeiti
-D   0?  STKaiti
-    0?  STSong
-D   0?  Toppan Bunkyu Gothic
-D   0?  Toppan Bunkyu midashi Gothic
-D   0?  Toppan Bunkyu midashi Mincho
-D   0?  Toppan Bunkyu mincho
-D   0?  Tsukushi A Round Gothic
-D   0?  Tsukushi B Round Gothic
-D   0?  Wawati SC
-D   0?  Wawati TC
-D   0?  Weibei SC
-D   0?  Weibei TC
-D   0?  Xingkai SC
-D   0?  Xingkai TC
-D   0?  Yuanti SC
-D   0?  Yuanti TC
-D   0?  YuGothic 
-D   0?  Yuppy SC
-D   0?  Yuppy TC
-D   0?  LiGothic
-D   0?  LiSung
 
-B TOTAL: ?
+Chinese  (Simplified Han, Traditional Han)*********************
 
-Japanese *********************
+    Apple LiGothic
+    Apple LiSung
+D   Baoil SC
+D   Baoil TC
+D   BiauKai
+    GB18030 Bitmap
+D   Hannotate SC
+D   Hannotate TC
+D   HanziPen SC
+D   HanziPen TC
+D   Hei
+    Heiti SC
+    Heiti TC
+    Kai
+    Kaiti SC
+    Kaiti TC
+    Klee
+D   Lantinghei SC
+D   Lantinghei TC
+D   Libian SC
+D   Libian TC
+D   LiHei
+D   LiSong Pro
+D   LingWai SC
+D   LingWai TC
+D   Nanum Brush Script
+D   Nanum Gothic
+D   Nanum Myeongjo
+D   Nanum Pen Script
+D   Osaka
+D   PCMyungjo
+D   PilGi
+    PingFang HK
+    PingFang SC
+    PingFang TC
+    Songti SC
+    Songti TC
+D   STFangsong
+D   STHeiti
+D   STKaiti
+    STSong
+D   Toppan Bunkyu Gothic
+D   Toppan Bunkyu midashi Gothic
+D   Toppan Bunkyu midashi Mincho
+D   Toppan Bunkyu mincho
+D   Tsukushi A Round Gothic
+D   Tsukushi B Round Gothic
+D   Wawati SC
+D   Wawati TC
+D   Weibei SC
+D   Weibei TC
+D   Xingkai SC
+D   Xingkai TC
+D   Yuanti SC
+D   Yuanti TC
+D   YuGothic 
+D   Yuppy SC
+D   Yuppy TC
+D   LiGothic
+D   LiSung
+
+Default Total......: 10 
+Downloadable Total.: 35
+TOTAL..............: 45
+
+
+Japanese (Han, Hiragana, Katakana) ****************************
 
     01  Hiragino Kaku
     02  Hiragino Maru
@@ -126,6 +137,12 @@ D   0?  Yuppy TC
     0?  Apple Gothic
     0?  Apple Myungio
 
+
+Default Total......: 10 
+Downloadable Total.: 35
+TOTAL..............: 45
+
+
 Korean  ***********************
 
 D 01. GungSeo
@@ -139,6 +156,10 @@ D   0?  PilGi
     0?  Apple SD Gothic Neo
     0?  Apple Gothic
     0?  Apple Myungio
+
+Default Total......: 10 
+Downloadable Total.: 35
+TOTAL..............: 45
 
 
 Cyrillic *********************
