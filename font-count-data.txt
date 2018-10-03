@@ -1,4 +1,4 @@
-Font Data: 03 Oct 2018
+Font Data: Updated 03 Oct 2018
 
 Notes: Items marked with a D are in the official macOS font 
 collection but aren't downloaded by default. They appear in 
