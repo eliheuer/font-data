@@ -82,367 +82,360 @@ TOTAL..............: 45
 
 Japanese (Han, Hiragana, Katakana) ****************************
 
-    01  Hiragino Kaku
-    02  Hiragino Maru
-    03  Hiragino Mincho ProN
-    04  Hiragino Sans
-    05  Hiragino Sans CNS
-    06  Kaiti SC
-    07  Kaiti TC
-    08  Klee
-D   0?  Lantinghei SC
-D   0?  Lantinghei TC
-D   0?  Libian SC
-D   0?  Libian TC
-D   0?  LingWai SC
-D   0?  LingWai TC
-D   0?  Nanum Brush Script
-D   0?  Nanum Gothic
-D   0?  Nanum Myeongjo
-D   0?  Nanum Pen Script
-D   0?  Osaka
-D   0?  PCMyungjo
-D   0?  PilGi
-    0?  PingFang HK
-    0?  PingFang SC
-    0?  PingFang TC
-    0?  Songti SC
-    0?  Songti TC
-D   0?  STFangsong
-D   0?  STHeiti
-D   0?  STKaiti
-    0?  STSong
-D   0?  Toppan Bunkyu Gothic
-D   0?  Toppan Bunkyu midashi Gothic
-D   0?  Toppan Bunkyu midashi Mincho
-D   0?  Toppan Bunkyu mincho
-D   0?  Tsukushi A Round Gothic
-D   0?  Tsukushi B Round Gothic
-D   0?  Wawati SC
-D   0?  Wawati TC
-D   0?  Weibei SC
-D   0?  Weibei TC
-D   0?  Xingkai SC
-D   0?  Xingkai TC
-D   0?  Yuanti SC
-D   0?  Yuanti TC
-D   0?  YuGothic 
-D   0?  YuKyokasho
-D   0?  YuKyokasho yoko
-D   0?  YuMincho
-D   0?  YuMincho
-D   0?  Yuppy SC
-D   0?  Yuppy TC
-    0?  Apple SD Gothic Neo
-    0?  Apple Gothic
-    0?  Apple Myungio
+    Hiragino Kaku
+    Hiragino Maru
+    Hiragino Mincho ProN
+    Hiragino Sans
+    Hiragino Sans CNS
+    Kaiti SC
+    Kaiti TC
+    Klee
+D   Lantinghei SC
+D   Lantinghei TC
+D   Libian SC
+D   Libian TC
+D   LingWai SC
+D   LingWai TC
+D   Nanum Brush Script
+D   Nanum Gothic
+D   Nanum Myeongjo
+D   Nanum Pen Script
+D   Osaka
+D   PCMyungjo
+D   PilGi
+    PingFang HK
+    PingFang SC
+    PingFang TC
+    Songti SC
+    Songti TC
+D   STFangsong
+D   STHeiti
+D   STKaiti
+    STSong
+D   Toppan Bunkyu Gothic
+D   Toppan Bunkyu midashi Gothic
+D   Toppan Bunkyu midashi Mincho
+D   Toppan Bunkyu mincho
+D   Tsukushi A Round Gothic
+D   Tsukushi B Round Gothic
+D   Wawati SC
+D   Wawati TC
+D   Weibei SC
+D   Weibei TC
+D   Xingkai SC
+D   Xingkai TC
+D   Yuanti SC
+D   Yuanti TC
+D   YuGothic 
+D   YuKyokasho
+D   YuKyokasho yoko
+D   YuMincho
+D   YuMincho
+D   Yuppy SC
+D   Yuppy TC
+    Apple SD Gothic Neo
+    Apple Gothic
+    Apple Myungio
+
+Default Total......: ?? 
+Downloadable Total.: ??
+TOTAL..............: ??
 
 
-Default Total......: 10 
-Downloadable Total.: 35
-TOTAL..............: 45
+Korean  (Hangul)***********************************************
+
+D   GungSeo
+D   HeadLineA
+D   Nanum Brush Script
+D   Nanum Gothic
+D   Nanum Myeongjo
+D   Nanum Pen Script
+D   PCMyungjo
+D   PilGi
+    Apple SD Gothic Neo
+    Apple Gothic
+    Apple Myungio
+
+Default Total......:  
+Downloadable Total.: 
+TOTAL..............: 
 
 
-Korean  ***********************
+Cyrillic ******************************************************
 
-D 01. GungSeo
-D 02. HeadLineA
-D   0?  Nanum Brush Script
-D   0?  Nanum Gothic
-D   0?  Nanum Myeongjo
-D   0?  Nanum Pen Script
-D   0?  PCMyungjo
-D   0?  PilGi
-    0?  Apple SD Gothic Neo
-    0?  Apple Gothic
-    0?  Apple Myungio
-
-Default Total......: 10 
-Downloadable Total.: 35
-TOTAL..............: 45
-
-
-Cyrillic *********************
-
-    01  Klee
-D   02  Lantinghei SC
-D   0?  Lantinghei TC
-D   0?  Libian SC
-D   0?  Libian TC
-D   0?  LiHei
-D   0?  LiSong Pro
-D   0?  LingWai SC
-D   0?  LingWai TC
-    0?  Lucida Grande
-    0?  Luminari
-    0?  Marker Felt
-    0?  Menlo
-    0?  Microsoft Sans Serif
-    0?  Monaco
-D   0?  Nanum Brush Script
-D   0?  Nanum Gothic
-D   0?  Nanum Myeongjo
-D   0?  Nanum Pen Script
-    0?  Noteworthy
-D   0?  Osaka
-    0?  Palatino
-    0?  Papyrus
-    0?  Phosphate
-    0?  PingFang HK
-    0?  PingFang SC
-    0?  PingFang TC
-    0?  PT Mono
-    0?  PT Sans
-    0?  PT Sans Caption
-    0?  PT Sans Narrow
-    0?  PT Serif Caption
-    0?  Rockwell
-    0?  Sathu
-    0?  Savoye LET
-    0?  SignPainter
-    0?  Snell Roundhand
-    0?  Songti SC
-    0?  Songti TC
-D   0?  STFangsong
-D   0?  STHeiti
-D   0?  STKaiti
-    0?  STSong
-    0?  Tahoma
-    0?  Thonburi
-    0?  Times
-    0?  Times new roman
-D   0?  Toppan Bunkyu Gothic
-D   0?  Toppan Bunkyu midashi Gothic
-D   0?  Toppan Bunkyu midashi Mincho
-D   0?  Toppan Bunkyu mincho
-    0?  Trattatello 
-    0?  Trebuchet MS
-D   0?  Tsukushi A Round Gothic
-D   0?  Tsukushi B Round Gothic
-    0?  Verdana
-D   0?  Wawati SC
-D   0?  Wawati TC
-D   0?  Weibei SC
-D   0?  Weibei TC
-D   0?  Xingkai SC
-D   0?  Xingkai TC
-D   0?  Yuanti SC
-D   0?  Yuanti TC
-D   0?  YuGothic 
-D   0?  YuKyokasho
-D   0?  YuKyokasho yoko
-D   0?  YuMincho
-D   0?  YuMincho
-D   0?  Yuppy SC
-D   0?  Yuppy TC
-    0?  Zapfino
-    0?  Apple SD Gothic Neo
-    0?  Apple symbols
-    0?  Apple Myungio
-
-
-
-
+    Klee
+D   Lantinghei SC
+D   Lantinghei TC
+D   Libian SC
+D   Libian TC
+D   LiHei
+D   LiSong Pro
+D   LingWai SC
+D   LingWai TC
+    Lucida Grande
+    Luminari
+    Marker Felt
+    Menlo
+    Microsoft Sans Serif
+    Monaco
+D   Nanum Brush Script
+D   Nanum Gothic
+D   Nanum Myeongjo
+D   Nanum Pen Script
+    Noteworthy
+D   Osaka
+    Palatino
+    Papyrus
+    Phosphate
+    PingFang HK
+    PingFang SC
+    PingFang TC
+    PT Mono
+    PT Sans
+    PT Sans Caption
+    PT Sans Narrow
+    PT Serif Caption
+    Rockwell
+    Sathu
+    Savoye LET
+    SignPainter
+    Snell Roundhand
+    Songti SC
+    Songti TC
+D   STFangsong
+D   STHeiti
+D   STKaiti
+    STSong
+    Tahoma
+    Thonburi
+    Times
+    Times new roman
+D   Toppan Bunkyu Gothic
+D   Toppan Bunkyu midashi Gothic
+D   Toppan Bunkyu midashi Mincho
+D   Toppan Bunkyu mincho
+    Trattatello 
+    Trebuchet MS
+D   Tsukushi A Round Gothic
+D   Tsukushi B Round Gothic
+    Verdana
+D   Wawati SC
+D   Wawati TC
+D   Weibei SC
+D   Weibei TC
+D   Xingkai SC
+D   Xingkai TC
+D   Yuanti SC
+D   Yuanti TC
+D   YuGothic 
+D   YuKyokasho
+D   YuKyokasho yoko
+D   YuMincho
+D   YuMincho
+D   Yuppy SC
+D   Yuppy TC
+    Zapfino
+    Apple SD Gothic Neo
+    Apple symbols
+    Apple Myungio
 
 Armenian  ********************
-    
-    0?  Mshtakan
+
+    Mshtakan
 
 Hebrew  **********************
 
-    01 Arial Hebrew
-    02 Corsiva
-    0?  Lucida Grande
-    0?  Microsoft Sans Serif
-    0?  New Peninim MT
-    0?  Raanana
-    0?  Tahoma
-    0?  Times new roman
+    Arial Hebrew
+    Corsiva
+    Lucida Grande
+    Microsoft Sans Serif
+    New Peninim MT
+    Raanana
+    Tahoma
+    Times new roman
 
 Greek  ***********************
 
-    0?  Lucida Grande
-    0?  Luminari
-    0?  Marker Felt
-    0?  Menlo  
-    0?  Microsoft Sans Serif
-    0?  Noteworthy
-    0?  Palatino
-    0?  Phosphate
-    0?  Savoye LET
-    0?  SignPainter
-    0?  Snell Roundhand
-    0?  Songti SC
-    0?  Songti TC
-D   0?  STFangsong
-D   0?  STHeiti
-D   0?  STKaiti
-    0?  STSong
-    0?  Tahoma
-    0?  Times
-    0?  Times new roman
-D   0?  Toppan Bunkyu Gothic
-D   0?  Toppan Bunkyu mincho
-    0?  Trattatello 
-D   0?  Xingkai SC
-D   0?  Xingkai TC
-D   0?  Yuanti SC
-D   0?  Yuanti TC
-D   0?  YuGothic 
-D   0?  YuMincho
-D   0?  YuMincho
-    0?  Apple symbols
-
+    Lucida Grande
+    Luminari
+    Marker Felt
+    Menlo  
+    Microsoft Sans Serif
+    Noteworthy
+    Palatino
+    Phosphate
+    Savoye LET
+    SignPainter
+    Snell Roundhand
+    Songti SC
+    Songti TC
+D   STFangsong
+D   STHeiti
+D   STKaiti
+    STSong
+    Tahoma
+    Times
+    Times new roman
+D   Toppan Bunkyu Gothic
+D   Toppan Bunkyu mincho
+    Trattatello 
+D   Xingkai SC
+D   Xingkai TC
+D   Yuanti SC
+D   Yuanti TC
+D   YuGothic 
+D   YuMincho
+D   YuMincho
+    Apple symbols
 
 
 Arabic  ***********************
 
-    01. Al Bayan
-    02. Al Nile
-    03. Al Tarikh
-    04. Baghdad
-    04. Beirut
-    05. Damascus
-    06. DecoType Naskh
-    07. Diwan Kufi
-    08. Diwan Thuluth
-    09. Farah
-    10. Farisi
-    11. Geeza Pro
-    12  KufiStandardGK
-    0?  Microsoft Sans Serif
-    0?  Mishafi
-    0?  Mishafi Gold
-    0?  Muna
-D   0?  Myriad Arabic
-    0?  Nadeem
-    0?  Noto Nastaliq Urdu
-    0?  Sana
-    0?  Songti SC
-    0?  Songti TC
-    0?  STSong
-    0?  Tahoma
-    0?  Times new roman
-    0?  Waseem
+    Al Bayan
+    Al Nile
+    Al Tarikh
+    Baghdad
+    Beirut
+    Damascus
+    DecoType Naskh
+    Diwan Kufi
+    Diwan Thuluth
+    Farah
+    Farisi
+    Geeza Pro
+    KufiStandardGK
+    Microsoft Sans Serif
+    Mishafi
+    Mishafi Gold
+    Muna
+D   Myriad Arabic
+    Nadeem
+    Noto Nastaliq Urdu
+    Sana
+    Songti SC
+    Songti TC
+    STSong
+    Tahoma
+    Times new roman
+    Waseem
 
-B TOTAL: ?
+
+
 
 Thai  ************************
 
-    01  Ayuthaya
-    02  Krungthep
-    0?  Microsoft Sans Serif
-    0?  Sathu
-    0?  Silom
-    0?  Sukhumvit Set
-    0?  Tahoma
-    0?  Thonburi
+    Ayuthaya
+    Krungthep
+    Microsoft Sans Serif
+    Sathu
+    Silom
+    Sukhumvit Set
+    Tahoma
+    Thonburi
 
 Sinhala  *******************
 
-    01  Sinhala MN
-    02  Sinhala Sangam MN
+    Sinhala MN
+    Sinhala Sangam MN
 
 Lao  *************************
 
-    01 Lao MN
-    01 Lao Sangam MN
+    Lao MN
+    Lao Sangam MN
 
 Myanmar  *********************
 
-    0? Myanmar MN
-    0? Myanmar Sangam MN
+    Myanmar MN
+    Myanmar Sangam MN
 
 Bengali  *********************
 
-B 1. Bangla MN
-B 2. Bangla Sangam MN
-    03  Kohinoor Bangla
+    Bangla MN
+    Bangla Sangam MN
+    Kohinoor Bangla
 
 Devanagari  ******************
 
-    01  Devanagari MT
-    02  Devanagari Sangam MN
-    03  ITF Devanagari
-    04  ITF Devanagari Marathi
-    05  Kohinoor Devanagari
-    06  Shree Devanagari 714
+    Devanagari MT
+    Devanagari Sangam MN
+    ITF Devanagari
+    ITF Devanagari Marathi
+    Kohinoor Devanagari
+    Shree Devanagari 714
 
 
 Telugu **********************
 
-    01  Kohinoor Telugu
-    02  Telugu MN
-    03  Telugu Sangam MN
+    Kohinoor Telugu
+    Telugu MN
+    Telugu Sangam MN
 
 Gujarati (also counted as Devanagari)
 
-    01 Gujarati MT
-    02 Gujarati Sangam MN
+    Gujarati MT
+    Gujarati Sangam MN
 
 Tamil  ************************
 
-    01  InaiMathi
-    02  Tamil MN
-    03  Tamil Sangam MN
+    InaiMathi
+    Tamil MN
+    Tamil Sangam MN
 
 Dzongkha, Tibetan *************
 
-    01  Kailsa
-    02  Kokonor
-    0?  Songti SC
-    0?  Songti TC
-    0?  STSong
+    Kailsa
+    Kokonor
+    Songti SC
+    Songti TC
+    STSong
 
 Yi ***************************
-    0?  Songti SC
-    0?  Songti TC
-D   0?  STFangsong
-D   0?  STHeiti
-    0?  STSong
-D   0?  Weibei SC
-D   0?  Weibei TC
-
-
+    Songti SC
+    Songti TC
+D   STFangsong
+D   STHeiti
+    STSong
+D   Weibei SC
+D   Weibei TC
 
 
 Gurmukhi  *********************
 
-B 01. Gurmuki MN
-B 02. Gurmuki MT
-B 03. Gurmuki Sangam MN
+    Gurmuki MN
+    Gurmuki MT
+    Gurmuki Sangam MN
 
 Malayalam ********************
 
-    01 Malayalam MN
-    02 Malayalam Sangam MN
+    Malayalam MN
+    Malayalam Sangam MN
 
 Odia ************************
 
-    0?  Oriya MN
-    0?  Oriya Sangam MN
+    Oriya MN
+    Oriya Sangam MN
 
 Kannada *********************
 
-  01 Kannada MN
-  02 Kannada Sangam MN
+    Kannada MN
+    Kannada Sangam MN
 
 Ethiopic ********************
 
-  01  Kefa
+    Kefa
 
 Khmer  *********************
 
-  01  Khmer MN
-  02  Khmer Sangam MN
+    Khmer MN
+    Khmer Sangam MN
 
 Canadian Syllabics **********
 
-B 1. Euphemia USAC
+    Euphemia USAC
 
 Cherokee *********************
 
-    0?  Plantagenet Cherokee
+    Plantagenet Cherokee
 
 
 
