@@ -137,9 +137,9 @@ D   Yuppy TC
     Apple Gothic
     Apple Myungio
 
-Default Total......: ?? 
-Downloadable Total.: ??
-TOTAL..............: ??
+Default Total......: 20 
+Downloadable Total.: 37
+TOTAL..............: 57
 
 
 Korean  (Hangul)***********************************************
@@ -156,9 +156,9 @@ D   PilGi
     Apple Gothic
     Apple Myungio
 
-Default Total......:  
-Downloadable Total.: 
-TOTAL..............: 
+Default Total......: 03
+Downloadable Total.: 08
+TOTAL..............: 11
 
 
 Cyrillic ******************************************************
@@ -239,6 +239,13 @@ D   Yuppy TC
     Apple symbols
     Apple Myungio
 
+
+Default Total......: 38
+Downloadable Total.: 37
+TOTAL..............: 75
+
+
+
 Armenian  ********************
 
     Mshtakan
@@ -253,6 +260,11 @@ Hebrew  **********************
     Raanana
     Tahoma
     Times new roman
+
+Default Total......: 08
+Downloadable Total.: 00
+TOTAL..............: 08
+
 
 Greek  ***********************
 
@@ -319,7 +331,9 @@ D   Myriad Arabic
     Times new roman
     Waseem
 
-
+Default Total......: 26
+Downloadable Total.: 01
+TOTAL..............: 27
 
 
 Thai  ************************
@@ -332,6 +346,12 @@ Thai  ************************
     Sukhumvit Set
     Tahoma
     Thonburi
+
+
+Default Total......: 08
+Downloadable Total.: 00
+TOTAL..............: 08
+
 
 Sinhala  *******************
 
@@ -354,6 +374,10 @@ Bengali  *********************
     Bangla Sangam MN
     Kohinoor Bangla
 
+Default Total......: 03
+Downloadable Total.: 00
+TOTAL..............: 03
+
 Devanagari  ******************
 
     Devanagari MT
@@ -362,6 +386,10 @@ Devanagari  ******************
     ITF Devanagari Marathi
     Kohinoor Devanagari
     Shree Devanagari 714
+
+Default Total......: 06
+Downloadable Total.: 00
+TOTAL..............: 06
 
 
 Telugu **********************
